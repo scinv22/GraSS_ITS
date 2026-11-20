@@ -1,0 +1,16 @@
+{
+  "protocol": "TACO distributed test split (Town 10HD, 1,446 labelled clips); final checkpoint; evaluated once",
+  "n_videos": 1446,
+  "map_centre_clip": 0.6223149595444748,
+  "map_centre_clip_per_group": {
+    "C": 0.6100503606468773,
+    "K": 0.5112762133501688,
+    "P": 0.5679510061995222,
+    "C+": 0.7331094527988865,
+    "K+": 0.6795484734961784,
+    "P+": 0.6095919197181097
+  },
+  "map_5_clips": 0.6361423850653298,
+  "map_5_clips_and_mirror": 0.638917554712201,
+  "map_centre_clip_classes_ge10_test_positives": 0.6320943846146375
+}

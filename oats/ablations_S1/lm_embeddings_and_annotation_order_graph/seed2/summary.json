@@ -1,0 +1,9 @@
+{
+  "selected_epoch": 15,
+  "selection_rule": "epoch with the highest heldout_map_selection_score (the training script's checkpoint criterion)",
+  "map_centre_clip_at_selected_epoch": 0.567832516384307,
+  "map_centre_clip_last_epoch": 0.5521806301810518,
+  "map_centre_clip_classes_ge10_at_selected_epoch": 0.6382848473032768,
+  "map_centre_clip_classes_ge10_last_epoch": 0.6174219231069991,
+  "last_epoch": 23
+}

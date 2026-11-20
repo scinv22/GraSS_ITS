@@ -1,0 +1,7 @@
+model,seed,test_map_centre_clip,test_map_5_clips,test_map_5_clips_and_mirror
+grass,0,0.657179,0.671445,0.679293
+grass,1,0.665668,0.677431,0.682991
+grass,2,0.670735,0.686230,0.690051
+grass_no_distillation,0,0.633779,0.645655,0.649307
+grass_no_distillation,1,0.622315,0.636142,0.638918
+grass_no_distillation,2,0.647400,0.660349,0.667744
